@@ -2,3 +2,4 @@
 
 * Dr. Doom
 * Lex Luthor
+* Thanos
